@@ -21,7 +21,7 @@ function App() {
         <h1 className="title">Rick & Morty </h1>
         
 
-        <div className="infoContainer">
+        <div className="title">
           Jaime Ivan Avila Muñoz<br/>
           zs20006783@estudiantes.uv.mx <br/>
           
